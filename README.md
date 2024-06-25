@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhagyapatel08
-- 👀 I’m interested in webdevlopment, Ract js ,datascience
-- 🌱 I’m currently learning B.tech IT 3rd year Student
+- 👀 I’m interested in Webdevlopment,Ract JS,DataScience
+- 🌱 I’m currently pursuing B.tech I.T.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
